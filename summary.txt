@@ -1,0 +1,39 @@
+📚 Week 1 & 2 Learnings
+🔹 1. LangChain for LLM Application Development
+What I Learned:
+
+Understood how to build end-to-end applications using language models.
+
+Explored LangChain components like chains, agents, memory, and tools.
+
+Learned how to connect LLMs to external APIs, databases, and tools for more dynamic use.
+
+Practiced designing multi-step workflows using LangChain (e.g., combining search, summarization, and answering).
+
+Gained experience with prompt templates, chaining outputs between LLM calls, and debugging LangChain flows.
+
+🔹 2. Building Systems with the ChatGPT API
+What I Learned:
+
+Learned how to build custom AI-powered systems using OpenAI’s ChatGPT API.
+
+Understood how to structure API calls using messages (role: user/system/assistant).
+
+Practiced building multi-turn conversations, remembering context, and refining responses.
+
+Gained practical experience with functions, tools calling, and API integration.
+
+Developed an understanding of system prompts and user intent handling in applications.
+
+🔹 3. ChatGPT Prompt Engineering for Developers
+What I Learned:
+
+Learned best practices for prompt design to get high-quality, reliable responses.
+
+Practiced using techniques like zero-shot, few-shot, and role prompting.
+
+Explored how to break complex problems into smaller subtasks using prompts.
+
+Understood how to guide model behavior with clear, structured instructions.
+
+Applied prompt engineering to tasks like classification, summarization, transformation, and code generation.
